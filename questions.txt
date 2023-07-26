@@ -4,3 +4,4 @@ total crime over the year (seasonal variation - summer is the worst, but let's p
 
 does type of crime vary over the year
 
+Which location has highest crime
