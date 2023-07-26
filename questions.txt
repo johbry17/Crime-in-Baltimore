@@ -1,0 +1,6 @@
+preferred weapon per neighborhood
+
+total crime over the year (seasonal variation - summer is the worst, but let's prove it)
+
+does type of crime vary over the year
+
