@@ -4,13 +4,3 @@ total crime over the year (seasonal variation - summer is the worst, but let's p
 
 does type of crime vary over the year
 
-crime rate per neighborhood
-
-most popular inside crime, most popular outside crime
-
-breakdown crime by gender
-
-?type of crime per building type (residential, commercial, etc.)
-
-crime by time of day (most popular morning crime)
-
