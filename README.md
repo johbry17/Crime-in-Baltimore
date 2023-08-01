@@ -1,30 +1,38 @@
 # GW-Project-1
-First group project
+## Module 6 Challenge, 27 July 2023, API Challenge (World Weather Analysis)
 
-Group members:
+###### Professional-ese for "Don't contact me, I'm done with this." Otherewise I think you're supposed to leave contact info.
 
-=======
+Development on this project has stopped.
 
-1) Siobhan Byrne
+## Description
 
-=======
+The Jupyter Notebook main.ipynb analyzes the relationship between crime and time in Baltimore from 1 January 2012 to 2 September 2017, looking at it from blah blah blah
 
-Robert
+A written summary of the major findings is included... blah... blah... blah...
 
-=======
+## Usage
 
-Katie Loosararian
+You can view the results in main.ipynb, located in the repository root. If you want to run the code, restart the kernel and 'run all'.
 
-=======
+## Gallery of Significant Results:
 
-Bryan
+Figure Title:
 
-Scarecrow
+###### syntax for adding pictures
 
-Tin Man
+![Title](Images/Fig1.png)
 
-Cowardly Lion
+## Acknowledgments
 
-Toto
+###### My tutor. Add anybody you need to.
 
+Thanks to Geronimo Perez for feedback and assistance
 
+## Authors
+
+###### I went with alphabetical order
+
+Siobhan Byrne, Bryan Johns, Katie Loosararian, and Robert Takan
+
+August, 2023
