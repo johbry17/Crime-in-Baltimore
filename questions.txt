@@ -22,3 +22,24 @@ crime by time of day (most popular morning crime)
     Hypothesis: Time of day impacts crime levels and type of crimes
     Null: it doesn't
 
+********************
+
+Generic
+    Bryan - pie chart of crime descriptions
+
+Q #1 Crime per Hour
+    Katie - scatter plot of crime by Hour, add a line for each day of the week
+    Bryan - line chart of number of crimes per year, categorized by time of day (late night, morning, afternoon, evening)
+    Siobhan - rework Katie's scatter plot of crime by hour to make a line for each description of crime
+    statistical test (ANOVA, t-test, or chi-square)
+
+Q #2 Crime by day of week
+    Rob - crime by day of week / scatter plot (or line plot) of crime by hour, but with a line for each year
+    Rob - crime description by day of week
+    statistical test (ANOVA, t-test, or chi-square)
+
+Q #3 Crime by year
+    Siobhan - ?Stacked? Bar plot of crime Description by year
+    Bryan - plot of crime for each year (by month, instead of day - ?mention Freddie Grey?)
+    statistical test (ANOVA, t-test, or chi-square)
+
