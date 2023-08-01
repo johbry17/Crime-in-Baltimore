@@ -1,0 +1,24 @@
+preferred weapon per neighborhood
+    Hypothesis: some neighborhoods have certain preferred weapons
+    Null: they don't
+
+total crime over the year (seasonal variation - summer is the worst, but let's prove it)
+    Hypothesis: Seasons change crime rate, crime type
+    Null: Seasons don't change crime rate
+
+crime rate per neighborhood
+    Hypothesis: neighborhood impacts crime rate, crime type
+    Null: neighborhood does note impact crime rate
+
+most popular inside crime, most popular outside crime
+    Hypothesis: indoors and outdoors changes crime rate, crime type, maybe by time
+    Null: it doesn't
+
+breakdown crime by gender
+
+?type of crime per building type (residential, commercial, etc.)
+
+crime by time of day (most popular morning crime)
+    Hypothesis: Time of day impacts crime levels and type of crimes
+    Null: it doesn't
+

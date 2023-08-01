@@ -1,8 +1,31 @@
 # GW-Project-1
 First group project
 
-<<<<<<< HEAD
-1) Siobhan Byrne
+Group members:
+
 =======
+
+1) Siobhan Byrne
+
+=======
+
+Robert
+
+=======
+
+Katie Loosararian
+
+=======
+
 Bryan
->>>>>>> ee69adcd72c06da39b6ac3bb0353e95ea9abc523
+
+Scarecrow
+
+Tin Man
+
+Cowardly Lion
+
+Toto
+
+
+>>>>>>> origin
