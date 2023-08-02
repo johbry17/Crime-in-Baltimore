@@ -1,5 +1,5 @@
 # GW-Project-1
-## Module 6 Challenge, 27 July 2023, API Challenge (World Weather Analysis)
+## Project 1, 3 August 2023
 
 ###### Professional-ese for "Don't contact me, I'm done with this." Otherewise I think you're supposed to leave contact info.
 
