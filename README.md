@@ -29,6 +29,7 @@ Figure Title:
 
 Thanks to Geronimo Perez for feedback and assistance
 
+=======
 ## Authors
 
 ###### I went with alphabetical order
@@ -36,3 +37,4 @@ Thanks to Geronimo Perez for feedback and assistance
 Siobhan Byrne, Bryan Johns, Katie Loosararian, and Robert Takan
 
 August, 2023
+
