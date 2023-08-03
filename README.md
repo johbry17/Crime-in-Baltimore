@@ -9,7 +9,7 @@ Development on this project has stopped.
 
 The Jupyter Notebook main.ipynb analyzes the relationship between crime and time in Baltimore from 1 January 2012 to 2 September 2017, looking at it from blah blah blah
 
-A written summary of the major findings is included... blah... blah... blah...
+A written summary of the major findings is included
 
 ## Usage
 
@@ -25,14 +25,12 @@ Figure Title:
 
 ## Acknowledgments
 
-###### My tutor. Add anybody you need to.
+Thanks to Geronimo Perez for feedback and assistance.
 
-Thanks to Geronimo Perez for feedback and assistance
+Assistance on the stacked bar charts came from ( https://python-charts.com/part-whole/stacked-bar-chart-matplotlib/ )
 
 =======
 ## Authors
-
-###### I went with alphabetical order
 
 Siobhan Byrne, Bryan Johns, Katie Loosararian, and Robert Takan
 
