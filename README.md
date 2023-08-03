@@ -15,7 +15,7 @@ The dataset represents the location and characteristics of major (Part 1) crime 
 
 The data set runs from the first of January, 2012 to the second of September, 2017.
 
-The project analyzes the relationship between the frequency of crime and time of day, to better inform decision makers on the efficient allocation of police resources. We find a strong statistical association between the time of day, day of the week, and month of the year upon the frequency of crimes.
+This exploratory data analysis looks at the relationship between the frequency of crime and time of day, to better inform decision makers on the efficient allocation of police resources. We find a strong statistical association between the time of day, day of the week, and month of the year upon the frequency of crimes.
 
 A written summary of the major findings is included in the root repo as "GW Project 1 Analysis.pdf".
 
